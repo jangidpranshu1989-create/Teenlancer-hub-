@@ -1,0 +1,6 @@
+{
+  "name": "Teenlancer Hub",
+  "description": "Teen-to-Teen Marketplace Guest Board, Tech Discussions, Co-Founder Matching, and Showcase with Gamified Streaks and FamPay UPI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
